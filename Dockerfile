@@ -9,7 +9,7 @@ RUN pip3 install -r requirements.txt
 COPY app.py app.py
 COPY stemmed_writers_rus.json stemmed_writers_rus.json
 COPY templates/view_response.html templates/view_response.html
-COPY artifacts/model_34_baseline:v1/ artifacts/model_34_baseline:v1/
+COPY artifacts/distilled_bert:v0/ artifacts/distilled_bert:v0/
 
 EXPOSE 5000
 

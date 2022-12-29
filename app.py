@@ -6,8 +6,13 @@ from torch import softmax, argsort
 import json
 
 # download model
+# import wandb
+# run = wandb.init()
+# artifact = run.use_artifact('sava_ml/hw-nlp/distilled_bert:v0', type='model')
+# artifact_dir = artifact.download()
+
 tokenizer = AutoTokenizer.from_pretrained("sberbank-ai/ruBert-base")
-model = AutoModelForSequenceClassification.from_pretrained("artifacts/model_34_baseline:v1",
+model = AutoModelForSequenceClassification.from_pretrained("artifacts/distilled_bert:v0",
                                                            return_dict=True, num_labels=34,
                                                            ignore_mismatched_sizes=True)
 
