@@ -1,0 +1,140 @@
+{
+  "writers": {
+    "Akunin": {
+      "name": "Акунин",
+      "stem": "Акунин"
+    },
+    "Averchenko": {
+      "name": "Аверченко",
+      "stem": "Аверченк"
+    },
+    "Belyaev": {
+      "name": "Беляев",
+      "stem": "Беляев"
+    },
+    "Bulgakov": {
+      "name": "Булгаков",
+      "stem": "Булгаков"
+    },
+    "Chekhov": {
+      "name": "Чехов",
+      "stem": "Чехов"
+    },
+    "Gaydar": {
+      "name": "Гайдар",
+      "stem": "Гайдар"
+    },
+    "Goncharov": {
+      "name": "Гончаров",
+      "stem": "Гончаров"
+    },
+    "Grin": {
+      "name": "Грин",
+      "stem": "Грин"
+    },
+    "Dostoevsky": {
+      "name": "Достоевский",
+      "stem": "Достоевск"
+    },
+    "Dovlatov": {
+      "name": "Довлатов",
+      "stem": "Довлатов"
+    },
+    "Ilf_petrov": {
+      "name": "Ильф и Петров",
+      "stem": "Ильф"
+    },
+    "Fadeev": {
+      "name": "Фадеев",
+      "stem": "Фадеев"
+    },
+    "Fray": {
+      "name": "Фрай",
+      "stem": "Фра"
+    },
+    "Furmanov": {
+      "name": "Фурманов",
+      "stem": "Фурманов"
+    },
+    "Gogol": {
+      "name": "Гоголь",
+      "stem": "Гогол"
+    },
+    "Gorky": {
+      "name": "Горький",
+      "stem": "Горьк"
+    },
+    "Kataev": {
+      "name": "Катаев",
+      "stem": "Катаев"
+    },
+    "Kazantsev": {
+      "name": "Казанцев",
+      "stem": "Казанцев"
+    },
+    "Kuprin": {
+      "name": "Куприн",
+      "stem": "Куприн"
+    },
+    "Leskov": {
+      "name": "Лесков",
+      "stem": "Лесков"
+    },
+    "Lukyanenko": {
+      "name": "Лукьяненко",
+      "stem": "Лукьяненко"
+    },
+    "Ostrovsky": {
+      "name": "Островский",
+      "stem": "Островск"
+    },
+    "Pasternak": {
+      "name": "Пастернак",
+      "stem": "Пастернак"
+    },
+    "Paustovskiy": {
+      "name": "Паустовский",
+      "stem": "Паустовск"
+    },
+    "Pelevin": {
+      "name": "Пелевин",
+      "stem": "Пелевин"
+    },
+    "Pikul": {
+      "name": "Пикуль",
+      "stem": "Пикул"
+    },
+    "Prishvin": {
+      "name": "Пришвин",
+      "stem": "Пришвин"
+    },
+    "Saltykov-schedrin": {
+      "name": "Салтыков-Щедрин",
+      "stem": "Салтыков"
+    },
+    "Serafimovich": {
+      "name": "Серафимович",
+      "stem": "Серафимович"
+    },
+    "Sergeev-Thsenskiy": {
+      "name": "Сергеев-Ценский",
+      "stem": "Сергеев"
+    },
+    "Solzhenitsin": {
+      "name": "Солженицин",
+      "stem": "Солженицин"
+    },
+    "Shukshin": {
+      "name": "Шукшин",
+      "stem": "Шукшин"
+    },
+    "Struhgatskie": {
+      "name": "Стругацкие",
+      "stem": "Стругацки"
+    },
+    "Zoschenko": {
+      "name": "Зощенко",
+      "stem": "Зощенк"
+    }
+  }
+}

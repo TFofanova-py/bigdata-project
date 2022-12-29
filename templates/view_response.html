@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Авторство текста</title>
+</head>
+<body>
+<p> <b>Текст:</b> {{ text }} </p>
+<table>
+  <tr>
+    <th>Автор</th>
+    <th>Вероятность</th>
+  </tr>
+  <tr>
+    <td>{{ prediction[0][0] }}</td>
+    <td>{{ prediction[0][1] }}</td>
+  </tr>
+  <tr>
+    <td>{{ prediction[1][0] }}</td>
+    <td>{{ prediction[1][1] }}</td>
+  </tr>
+    <tr>
+    <td>{{ prediction[2][0] }}</td>
+    <td>{{ prediction[2][1] }}</td>
+  </tr>
+</table>
+<form method = "GET" action="/">
+     <input type = "submit" name="submit" value = "Назад" />
+  </form>
+</body>
+</html>
